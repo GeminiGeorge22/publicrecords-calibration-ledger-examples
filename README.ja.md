@@ -1,5 +1,8 @@
 # Calibration Ledger — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-calibration-ledger-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-calibration-ledger-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 予測の実績（IMF、OECD、FRB、ECB SPF）：機関ごとの予測誤差とバイアス。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。
